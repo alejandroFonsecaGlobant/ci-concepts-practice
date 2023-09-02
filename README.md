@@ -44,3 +44,9 @@ pipeline {
     }
 }
 ```
+## Screenshots
+### Stage View
+![Stage View](https://github.com/alejandroFonsecaGlobant/ci-concepts-practice/blob/main/images/Staging.png)
+### Log of last build
+![Log](https://github.com/alejandroFonsecaGlobant/ci-concepts-practice/blob/main/images/Log.png)
+
